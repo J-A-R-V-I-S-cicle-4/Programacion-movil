@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ColombiaPlacesToBe</string>
+    <string name="bogota">Bogotá</string>
+    <string name="informacion_general">INFORMACIÓN GENERAL: Esta ciudad es la capital del país en la altiplanicie más alta de los Andes colombianos.</string>
+    <string name="ubicacion">UBICACIÓN: Ubicada en el Centro del país, en la cordillera oriental, Bogotá tiene una extensión aproximada de 33 kilómetros de sur a norte y 16 kilómetros de oriente a occidente y se encuentra situada en las siguientes coordenadas: Latitud Norte: 4° 35\'56\'\' y Longitud Oeste de Greenwich: 74°04\'51\'\'</string>
+    <string name="temperatura">TEMPERATURA: Temperatura promedio es de 14°C (57°F) y en las noches de 10°C (50°F)</string>
+    <string name="sitios_recomendados">SITIOS: El cerro de Monserrate, La Candelaria y el casco histórico, Museo Botero, Museo del Oro, Barrio de Usaquén, Mirador de la Torre Colpatria, Parque Simón Bolívar</string>
+    <string name="content_description">Ciudad de Bogotá</string>
 </resources>
