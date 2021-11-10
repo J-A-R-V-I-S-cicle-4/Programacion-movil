@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyprimeraApp</string>
     <string name="barranquilla">Barranquilla</string>
+    <string name="informacion">Barranquilla es la capital del departamento del atlantico de Colombia y es un desbordante puerto marino bordeado por el rio magdalena, posee una superficie de 154km2 y esta situada en las siguientes coordenadas Latitud norte: 10°59´16\" y Longitud Oeste: 74° 47´ 20\"</string>
 </resources>
