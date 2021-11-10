@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_girardot.xml" value="0.33" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_guatavita.xml" value="0.33" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_villa_de_leyva.xml" value="0.33" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_zipaquira.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
