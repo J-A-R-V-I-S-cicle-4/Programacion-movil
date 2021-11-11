@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Colombia Places To Be</string>
+    <string name="carnavales_pasto">Carnavales de Negros y Blancos</string>
+    <string name="datos_carnavales">
+        <b>UBICACIÓN:</b> San Juan de Pasto - Nariño, Colombia. <br />
+        <b>TEMPERATURA:</b> 10 °C - 18 °C <br />
+        <b>ALTURA:</b> 2572 m.s.n.m. <br />
+        <b>DURACIÓN:</b> Del 2 de enero hasta el 6 de enero.
+    </string>
+    <string name="info_carnaval">No deje que el nombre lo engañe: el "Carnaval de Blancos y Negros" está en realidad lleno de color. Por cinco días,
+        al inicio de enero, la ciudad de Pasto, Colombia, se llena de parranderos que celebran la diversidad de culturas que han existido en Pasto desde
+        la ocupación española. Carrozas complejas, coloridos bailarines y cantidades de música llenan las calles durante el festival reconocido por la UNESCO.
+        Venga preparado: parte de la diversión es ser empolvado con almidón de maíz (un polvo blanco) y ser cubierto de pintura y/o espuma, lo cual es aplicado
+        en abundancia a todos los involucrados.
+    </string>
+</resources>
