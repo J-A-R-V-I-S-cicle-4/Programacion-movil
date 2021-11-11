@@ -1,12 +1,12 @@
-<resources>
-    <string name="app_name">ColombiaPlacesToBe</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">ColombiaPlacesToBe</string>
     <string name="bogota">Bogotá</string>
-    <string name="informacion_general">INFORMACIÓN GENERAL: Esta ciudad es la capital del país en la altiplanicie más alta de los Andes colombianos.</string>
-    <string name="ubicacion">UBICACIÓN: Ubicada en el Centro del país, en la cordillera oriental, Bogotá tiene una extensión aproximada de 33 kilómetros de sur a norte y 16 kilómetros de oriente a occidente y se encuentra situada en las siguientes coordenadas: Latitud Norte: 4° 35\'56\'\' y Longitud Oeste de Greenwich: 74°04\'51\'\'</string>
-    <string name="temperatura">TEMPERATURA: Temperatura promedio es de 14°C (57°F) y en las noches de 10°C (50°F)</string>
-    <string name="sitios_recomendados">SITIOS: El cerro de Monserrate, La Candelaria y el casco histórico, Museo Botero, Museo del Oro, Barrio de Usaquén, Mirador de la Torre Colpatria, Parque Simón Bolívar</string>
+    <string name="informacion_general"><b>INFORMACIÓN GENERAL:</b> Esta ciudad es la capital del país en la altiplanicie más alta de los Andes colombianos.</string>
+    <string name="ubicacion"><b>UBICACIÓN:</b> Ubicada en el Centro del país, en la cordillera oriental, Bogotá tiene una extensión aproximada de 33 kilómetros de sur a norte y 16 kilómetros de oriente a occidente y se encuentra situada en las siguientes coordenadas: Latitud Norte: 4° 35\'56\'\' y Longitud Oeste de Greenwich: 74°04\'51\'\'</string>
+    <string name="temperatura"><b>TEMPERATURA:</b> Temperatura promedio es de 14°C (57°F) y en las noches de 10°C (50°F)</string>
+    <string name="sitios_recomendados"><b>SITIOS:</b> El cerro de Monserrate, La Candelaria y el casco histórico, Museo Botero, Museo del Oro, Barrio de Usaquén, Mirador de la Torre Colpatria, Parque Simón Bolívar</string>
     <string name="content_description">Ciudad de Bogotá</string>
-    <string name="zipaquira">Zipaquirá</string>
+    <string name="zipaquira" tools:ignore="MissingTranslation">Zipaquirá</string>
     <string name="zipaquira_description">Imagen de Zipaquirá</string>
     <string name="ubicacion_zipa">UBICACIÓN: Ubicado en el departamento de Cundinamarca, en la provincia de Sabana Centro, de la que es la capital y sede de su diócesis. Se encuentra a 29 km de Bogotá, y hace parte de su área metropolitana, 450 km de Medellín y a 117 km de Tunja.</string>
     <string name="info_zipa">INFORMACIÓN GENERAL: Conocida por su Catedral de Sal  y su cultura indígena.</string>
@@ -26,9 +26,12 @@
     <string name="sitios_girardot">SITIOS: Piscilago, Catedral de Girardot, Parque de la Locomotora, Aventura Colombiana</string>
     <string name="girardot_description">Imagen de Girardot</string>
     <string name="villa_de_leyva">Villa de Leyva</string>
-    <string name="informacion_villa">INFORMACIÓN GENERAL: Municipio conocido por su arquitctura colonial, los varios paisajes que lo conforman y sus reconocidos festivales.</string>
+    <string name="informacion_villa">INFORMACIÓN GENERAL: Municipio conocido por su arquitectura colonial, los varios paisajes que lo conforman y sus reconocidos festivales.</string>
     <string name="ubicacion_villa">UBICACIÓN: Ubicado en la provincia de Ricaurte del departamento de Boyacá. Está ubicado a 40 km al occidente de Tunja, capital del departamento, y a 165 km de Bogotá,</string>
     <string name="temperatura_villa">TEMPERATURA: La temperatura generalmente varía de 10 °C a 22 °C y rara vez baja a menos de 5 °C o sube a más de 24 °C.</string>
     <string name="sitios_villa">SITIOS: Casa de Terracota, Plaza Mayor, Museo El Fósil, Casa Muse Antonio Nariño.</string>
     <string name="villa_description">Imgen de Villa de Leyva</string>
+    <string name="registro">Registro de un POI</string>
+    <string name="registrar">Registrar POI</string>
+    <string name="nombre">Nombre:</string>
 </resources>
