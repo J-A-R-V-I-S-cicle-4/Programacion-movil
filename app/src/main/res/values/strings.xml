@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">sanantero</string>
+    <string name="San_Antero">San Antero</string>
+    <string name="descripcion">San Antero es un municipio ubicado en la costa norte de Colombia.</string>
+    <string name="temperatura">Temperatura: su temperatura promedio es de 33 °C.</string>
+    <string name="sitios_interes">En la Bahía de Cispatá se encuentran playas de Arena Blanca, así como bosques de manglar con gran diversidad de flora y de fauna.  Una característica que hace especial a San Antero, es ser el único municipio de Colombia con delfines costeros, encontrándose dos especies: el Delfín rosado, el mismo que se halla en el Río Amazonas y el Delfín gris. También se encuentra una especie de hicoteas solo vistas en este municipio (las tortugas albinas).</string>
+    <string name="ubicacion">Ubicación: Córdoba, Colombia</string>
+    <string name="imagen" />
 </resources>
