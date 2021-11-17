@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">andresMolina</string>
+    <string name="sancipriano">San Cipriano</string>
+    <string name="infoSanCipriano"><b>Información general:</b> Reserva natural en un raizal con uno de los ríos cristalinos más puros y limpios del mundo según las Naciones Unidas.</string>
+    <string name="descripSanCipriano"><b>Descripción:</b> A las orillas de la carretera hacia Buenaventura, se encuentra el un pintoresco raizal del Pacífico Colombiano en medio de la selva, rodeado de ríos que son ideales para desarrollar actividades como: nadar, caretear, hacer tubing y kayak.</string>
+    <string name="tempeSanCipriano"><b>Temperatura:</b> 24 °C, viento del N a 10 km/h, humedad del 87 %.</string>
+    <string name="sitiosSanCipriano"><b>Sitios:</b> Brujas, Reserva forestal protectora, Río Danubio, Cascada Ventiladora.</string>
+    <string name="picoDelLoro">Pico Del Loro</string>
+    <string name="infoPicoDelLoro"><b>Información general:</b> Prominente aventura de altura de 2.860 metros en los Farallones de Cali.</string>
+    <string name="descripcPicoDelLoro"><b>Descripción:</b> Montaña en el corregimiento de Pance (Cali),  ideal para deportistas, senderistas, aficionados a las aves y aquellas personas que simplemente disfrutan estar en un ambiente natural lejos de la ciudad con una pendiente que se incrementa progresivamente. La temporada más seca desde para apreciar las uves es en Enero, Febrero, Junio, Julio y Agosto</string>
+    <string name="tempePicoDelLoro"><b>Temperatura:</b> 15°C – 35°C.</string>
+    <string name="sitiosPicoDelLoro"><b>Sitios:</b> Río Pance.</string>
+    <string name="gorgona">Isla Gorgona</string>
+    <string name="infoGorgona"><b>Información general:</b> Paraíso tropical en el pacifico donde pareciera que todo estuviera por descubrir.</string>
+    <string name="descripGorgona"><b>Descripción:</b> Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.</string>
+    <string name="tempeGorgona"><b>Temperatura:</b> 15°C – 35°C.</string>
+    <string name="sitiosGorgona"><b>Sitios:</b> Playa Blanca, buceo, avistamiento de ballenas, cárcel e Gorgona, islote de Gorgonilla. </string>
+</resources>
