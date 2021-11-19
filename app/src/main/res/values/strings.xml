@@ -6,4 +6,8 @@
     <string name="sitios_interes">En la Bahía de Cispatá se encuentran playas de Arena Blanca, así como bosques de manglar con gran diversidad de flora y de fauna.  Una característica que hace especial a San Antero, es ser el único municipio de Colombia con delfines costeros, encontrándose dos especies: el Delfín rosado, el mismo que se halla en el Río Amazonas y el Delfín gris. También se encuentra una especie de hicoteas solo vistas en este municipio (las tortugas albinas).</string>
     <string name="ubicacion">Ubicación: Córdoba, Colombia</string>
     <string name="imagen" />
+    <string name="nombre">Bahía de Cispatá</string>
+    <string name="imagenSitio">bahiaCispataFoto</string>
+    <string name="nombreSitio">Nombre:</string>
+    <string name="puntuacion">Puntuación</string>
 </resources>

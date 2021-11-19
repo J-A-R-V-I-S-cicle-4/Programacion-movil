@@ -16,7 +16,7 @@
         android:fontFamily="sans-serif-black"
         android:text="@string/San_Antero"
         android:textAlignment="center"
-        android:textColor="#0B0A0A"
+        android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -32,6 +32,8 @@
         android:layout_marginTop="76dp"
         android:layout_marginEnd="8dp"
         android:contentDescription="@string/imagen"
+        android:cropToPadding="true"
+        android:scaleType="fitXY"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
@@ -79,16 +81,20 @@
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="361dp"
-        android:layout_height="151dp"
+        android:layout_width="349dp"
+        android:layout_height="277dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="26dp"
         android:layout_marginEnd="8dp"
         android:fontFamily="sans-serif-black"
         android:text="@string/sitios_interes"
         android:textAlignment="center"
         android:textColor="#1B5E20"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.63"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+        app:layout_constraintTop_toBottomOf="@+id/textView6"
+        app:layout_constraintVertical_bias="0.0" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
