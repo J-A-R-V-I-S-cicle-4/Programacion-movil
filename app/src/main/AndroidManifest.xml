@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jarvis.colombiaplacestobe">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:fullBackupContent="true"
@@ -11,8 +13,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ColombiaPlacesToBe">
         <activity
-            android:name=".RegistroPOI"
-            android:exported="true" >
+            android:name=".ListPlaceOfInterest"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,8 +22,11 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".RegistroPoi"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
-            android:exported="true" >
+            android:exported="true">
         </activity>
     </application>
 

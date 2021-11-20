@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Bogotá",
+    "descripcion": "Capital de Colombia, sitio turístico, conocida por su variada cultura y multiples lugares.",
+    "calificacion": 5.0,
+    "urlPicture": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/bogota_coedd3.jpg"
+  },
+  {
+    "nombre": "Girardot",
+    "descripcion": "Municipio conocido por sus fiestas, bares y piscinas.",
+    "calificacion": 4.5,
+    "urlPicture": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/girardot_zdafrw.jpg"
+  },
+  {
+    "nombre": "Guatavita",
+    "descripcion": "Conocida por la leyenda del Dorado, esta laguna es un lugar sagrado y de muchos misterios.",
+    "calificacion": 4.8,
+    "urlPicture": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/guatavita_asjgjt.jpg"
+  },
+  {
+    "nombre": "Villa de Leyva",
+    "descripcion": "Municipio conocido por su arquitectura colonial, los varios paisajes que lo conforman.",
+    "calificacion": 4.9,
+    "urlPicture": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/villa_ojqa3p.jpg"
+  },
+  {
+    "nombre": "Zipaquirá",
+    "descripcion": "Conocida por su Catedral de Sal  y su cultura indígena.",
+    "calificacion": 4.0,
+    "urlPicture": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/zipaquira_ng7uul.jpg"
+  }
+]
