@@ -2,7 +2,6 @@ package com.andresmolinasix.sprint2
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-//import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.gson.Gson
@@ -10,7 +9,7 @@ import com.google.gson.Gson
 class ListTurismoActivity : AppCompatActivity() {
 
     // declarar que la no se incializará el la clase de inmediato
-    private lateinit var listSitios: ArrayList<Turismo>
+    private lateinit var listSitios: ArrayList<TurismoItem>
     private lateinit var turismoAdapter: TurismoAdapter
     private lateinit var turismoRecyclerView: RecyclerView
 
@@ -20,8 +19,8 @@ class ListTurismoActivity : AppCompatActivity() {
 
         turismoRecyclerView = findViewById(R.id.turismo_recycler_view)
 
-        listSitios = craeteMockTurismo()
-        //listSitios = loadMockTurismoFromJson()
+        //listSitios = craeteMockTurismo()
+        listSitios = loadMockTurismoFromJson()
 
         turismoAdapter = TurismoAdapter(listSitios)
 
@@ -34,14 +33,15 @@ class ListTurismoActivity : AppCompatActivity() {
 
     }
 
-    //private fun loadMockTurismoFromJson(): ArrayList<Turismo> {
+    private fun loadMockTurismoFromJson(): ArrayList<TurismoItem> {
 
-   //     val sitiosString : String = applicationContext.assets.open("Turismo.json").bufferedReader().use{it.readText()}
-   //     val gson = Gson()
-   //     val data = gson.fromJson(sitiosString, Turismo::class.java   )
-    //}
+        val sitioString : String = applicationContext.assets.open("Turismo.json").bufferedReader().use{it.readText()}
+        val gson = Gson()
+        return gson.fromJson(sitioString, Turismo::class.java)
 
-    private fun craeteMockTurismo(): ArrayList<Turismo> {
+    }
+
+  /*  private fun craeteMockTurismo(): ArrayList<Turismo> {
         return arrayListOf(
             Turismo(
                 name = "San Cipriano.",
@@ -71,5 +71,5 @@ class ListTurismoActivity : AppCompatActivity() {
 
 
         )
-    }
+    }*/
 }

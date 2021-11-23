@@ -1,8 +1,6 @@
 package com.andresmolinasix.sprint2
 
-data class Turismo(
-    val name: String,
-    val information: String,
-    val score: Float,
-    val url: String
-    )
+
+import com.google.gson.annotations.SerializedName
+
+class Turismo : ArrayList<TurismoItem>()

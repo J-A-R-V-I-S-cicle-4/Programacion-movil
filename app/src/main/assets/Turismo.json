@@ -1,31 +1,31 @@
 [
     {
-       "Nombre":"San Cipriano",
-       "Descripción":"A las orillas de la carretera hacia Buenaventura, se encuentra el un pintoresco raizal del Pacífico Colombiano en medio de la selva, rodeado de ríos que son ideales para desarrollar actividades como: nadar, caretear, hacer tubing y kayak.",
+       "name":"San Cipriano",
+       "descripción":"A las orillas de la carretera hacia Buenaventura, se encuentra el un pintoresco raizal del Pacífico Colombiano en medio de la selva, rodeado de ríos que son ideales para desarrollar actividades como: nadar, caretear, hacer tubing y kayak.",
        "information": "Reserva natural.",
        "score": 4.3,
-       "Foto":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381037/sanciprianoescalar_b90e6f.jpg"
+       "url":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381037/sanciprianoescalar_b90e6f.jpg"
     },
     {
-       "Nombre":"Pico Del Loro.",
-       "Descripción":"Montaña en el corregimiento de Pance (Cali) a de 2.860 metros de altura ,  ideal para deportistas, senderistas, aficionados a las aves y aquellas personas que simplemente disfrutan estar en un ambiente natural lejos de la ciudad con una pendiente que se incrementa progresivamente. La temporada más seca desde para apreciar las uves es en Enero, Febrero, Junio, Julio y Agosto.",
+       "name":"Pico Del Loro.",
+       "descripción":"Montaña en el corregimiento de Pance (Cali) a de 2.860 metros de altura ,  ideal para deportistas, senderistas, aficionados a las aves y aquellas personas que simplemente disfrutan estar en un ambiente natural lejos de la ciudad con una pendiente que se incrementa progresivamente. La temporada más seca desde para apreciar las uves es en Enero, Febrero, Junio, Julio y Agosto.",
        "score":4.3,
        "information" : "Montaña a 2.300 metros.",
-       "Foto":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381012/picodelloroescalar_eoeivh.jpg"
+       "url":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381012/picodelloroescalar_eoeivh.jpg"
     },
     {
-       "Nombre":"Isla Gorgona.",
-       "Descripción":"Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
-       "Puntuación":4.8,
+       "name":"Isla Gorgona.",
+       "descripción":"Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
+       "score":4.8,
        "information" : "Antigua prisión.",
-       "Foto":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637380998/islagorgonaescalar_gccgfl.jpg"
+       "url":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637380998/islagorgonaescalar_gccgfl.jpg"
     },
     {
-        "Nombre":"Tatacoa.",
-        "Descripción":"Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
-        "Puntuación":4.8,
+        "name":"Tatacoa.",
+        "descripción":"Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
         "information" : "Desierto.",
-        "Foto":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637380998/islagorgonaescalar_gccgfl.jpg"
+        "score":4.8,
+        "url":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637547358/desiertoescalar_lnr3tw.jpg"
      }
   ]
   
