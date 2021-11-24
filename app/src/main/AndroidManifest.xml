@@ -12,7 +12,7 @@
         android:theme="@style/Theme.Sprint2">
 
         <activity
-            android:name=".ListTurismoActivity"
+            android:name=".list.ListTurismoActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".detalle.MainActivity"
             android:exported="false"/>
     </application>
 

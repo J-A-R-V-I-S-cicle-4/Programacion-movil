@@ -1,4 +1,4 @@
-package com.andresmolinasix.sprint2
+package com.andresmolinasix.sprint2.model
 
 
 import com.google.gson.annotations.SerializedName

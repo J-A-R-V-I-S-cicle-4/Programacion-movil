@@ -1,9 +1,12 @@
-package com.andresmolinasix.sprint2
+package com.andresmolinasix.sprint2.list
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.andresmolinasix.sprint2.R
+import com.andresmolinasix.sprint2.model.Turismo
+import com.andresmolinasix.sprint2.model.TurismoItem
 import com.google.gson.Gson
 
 class ListTurismoActivity : AppCompatActivity() {
