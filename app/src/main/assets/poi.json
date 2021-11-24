@@ -50,8 +50,40 @@
   "urlPicture": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637380955/cocodrilos_vz2waj.jpg"
 },{
   "nombre": "Mirador de Playa Blanca",
-  "descripcion": "Cuenta con una serie de cabañas privadas, de las cuales un porcentaje se ha dispuesto para alquilar a una cantidad reducida de personas, conservando la privacidad y exclusividad de la zona.", "calificacion": "5.0",
+  "descripcion": "Cuenta con una serie de cabañas privadas, de las cuales un porcentaje se ha dispuesto para alquilar a una cantidad reducida de personas, conservando la privacidad y exclusividad de la zona.",
+  "calificacion": "5.0",
   "urlPicture": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637380955/cabanaspub_g27kl2.jpg"
+},{
+  "nombre": "Barranquilla",
+  "descripcion": "Es la capital del departamento del Atlantico, es un destino turistico de referencia, escenario del carnaval de Barranquilla y casa de la seleccion Colombia.",
+  "calificacion": "5.0",
+  "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775398/barranquilla_dsbpwf.jpg"
+},{
+  "nombre": "Estadio Metropolitano",
+  "descripcion": "Casa de varios equipos incluyendo la seleccion Colombia contruida en 1986 y remodelado y actualizado en el 2011.",
+  "calificacion": "4.6",
+  "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775510/EstadioMetropolitano_cnusvc.jpg"
+},{
+  "nombre": "Catedral Metropolitana",
+  "descripcion": "Es un referente arquitectonico en Colombia, su fachada con geometria pronunciada.",
+  "calificacion": "4.2",
+  "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775510/CatedralMetropolitana_i0omvz.jpg"
+},{
+  "nombre": "Castillo de Salgar",
+  "descripcion": "Construido por el imperio español durante la colonia, hoy es centro cultural, tiene magnifica vista.",
+  "calificacion": "4.3",
+  "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775509/CastilloDeSalgar_gijtot.jpg"
+},{
+  "nombre": "Bocas de cenizas",
+  "descripcion": "En este sitio se encuentra el rio Magdalena con el mar Caribe, el tajamar se puede recorrer en un pequeño tren, tambien se puede recorrer en planchones o botes y degustar de la comida tipica.",
+  "calificacion": "4.8",
+  "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775398/BocasDeCenizas_brvbfd.png"
+},{
+  "nombre": "Playa Miramar",
+  "descripcion": "Cuenta con aguas de poco oleaje, aqui podras disfrutar las arenas y una vista maravillosa en su atardecer.",
+  "calificacion": "5.0",
+  "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775520/PlayaMiramar_ould3r.jpg"
 }
+
 
 ]
