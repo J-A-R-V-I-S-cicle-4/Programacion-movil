@@ -13,4 +13,17 @@
         Venga preparado: parte de la diversión es ser empolvado con almidón de maíz (un polvo blanco) y ser cubierto de pintura y/o espuma, lo cual es aplicado
         en abundancia a todos los involucrados.
     </string>
+    <string name="ubication">Ubicacion: </string>
+    <string name="temperature">Temperatura: </string>
+    <string name="altitude">Altitud: </string>
+    <string name="duration">Duración: </string>
+    <string name="ubication_info">San Juan de Pasto, Nariño, Colombia.</string>
+    <string name="temperature_info">10 °c - 18 °c.</string>
+    <string name="altitude_info">2572 m.s.n.m.</string>
+    <string name="duration_info">5 dias (2 enero - 6 enero)</string>
+    <string name="Registro">Registro de Lugares Turisticos</string>
+    <string name="registrar">Registrar</string>
+    <string name="lugar">Lugar:</string>
+    <string name="estatura">Estatura</string>
+    <string name="place">"Nombre: %s, Estatura: %f"</string>
 </resources>
