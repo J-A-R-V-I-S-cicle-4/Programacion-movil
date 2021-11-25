@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Sprint2</string>
+    <string name="infoSanCipriano">Reserva natural.</string>
+    <string name="descripcionSanCipriano">A las orillas de la carretera hacia Buenaventura se encuentra el un pintoresco raizal del Pacífico Colombiano en medio de la selva, rodeado de ríos que son ideales para desarrollar actividades como: nadar, caretear, hacer tubing y kayak.</string>
+    <string name="scoreSanCipriano">4.5</string>
+    <string name="sanciprianoTextView">San Cipriano.</string>
 </resources>

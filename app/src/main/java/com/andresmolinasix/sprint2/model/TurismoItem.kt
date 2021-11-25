@@ -2,6 +2,7 @@ package com.andresmolinasix.sprint2.model
 
 
 import com.google.gson.annotations.SerializedName
+import java.io.Serializable
 
 data class TurismoItem(
     @SerializedName("description")
@@ -14,4 +15,4 @@ data class TurismoItem(
     val score: Double,
     @SerializedName("url")
     val url: String
-)
+): Serializable

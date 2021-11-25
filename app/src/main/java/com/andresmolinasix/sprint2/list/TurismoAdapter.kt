@@ -10,7 +10,10 @@ import com.andresmolinasix.sprint2.R
 import com.andresmolinasix.sprint2.model.TurismoItem
 import com.squareup.picasso.Picasso
 
-class TurismoAdapter (private val turismoList: ArrayList<TurismoItem>): RecyclerView.Adapter <TurismoAdapter.ViewHolder> () {
+class TurismoAdapter (
+    private val turismoList: ArrayList<TurismoItem>,
+    private val onItemClicked : (TurismoItem) -> Unit
+): RecyclerView.Adapter <TurismoAdapter.ViewHolder> () {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view =LayoutInflater.from(parent.context).inflate(R.layout.card_view_turismo, parent, false )
@@ -19,6 +22,7 @@ class TurismoAdapter (private val turismoList: ArrayList<TurismoItem>): Recycler
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val sitio = turismoList[position]
+        holder.itemView.setOnClickListener{onItemClicked(turismoList[position])}
         holder.bind(sitio)
 
     }

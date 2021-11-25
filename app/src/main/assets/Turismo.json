@@ -1,31 +1,170 @@
 [
-    {
-       "name":"San Cipriano",
-       "descripción":"A las orillas de la carretera hacia Buenaventura, se encuentra el un pintoresco raizal del Pacífico Colombiano en medio de la selva, rodeado de ríos que son ideales para desarrollar actividades como: nadar, caretear, hacer tubing y kayak.",
-       "information": "Reserva natural.",
-       "score": 4.3,
-       "url":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381037/sanciprianoescalar_b90e6f.jpg"
-    },
-    {
-       "name":"Pico Del Loro.",
-       "descripción":"Montaña en el corregimiento de Pance (Cali) a de 2.860 metros de altura ,  ideal para deportistas, senderistas, aficionados a las aves y aquellas personas que simplemente disfrutan estar en un ambiente natural lejos de la ciudad con una pendiente que se incrementa progresivamente. La temporada más seca desde para apreciar las uves es en Enero, Febrero, Junio, Julio y Agosto.",
-       "score":4.3,
-       "information" : "Montaña a 2.300 metros.",
-       "url":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381012/picodelloroescalar_eoeivh.jpg"
-    },
-    {
-       "name":"Isla Gorgona.",
-       "descripción":"Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
-       "score":4.8,
-       "information" : "Antigua prisión.",
-       "url":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637380998/islagorgonaescalar_gccgfl.jpg"
-    },
-    {
-        "name":"Tatacoa.",
-        "descripción":"Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
-        "information" : "Desierto.",
-        "score":4.8,
-        "url":"https://res.cloudinary.com/dai1kxhb3/image/upload/v1637547358/desiertoescalar_lnr3tw.jpg"
-     }
-  ]
-  
+  {
+    "name": "Bogotá",
+    "description": "Capital de Colombia, sitio turístico, conocida por su variada cultura y multiples lugares.",
+    "information": " Ciudad capital.",
+    "score": 5.0,
+    "url": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/bogota_coedd3.jpg"
+  },
+  {
+    "name": "Girardot",
+    "description": "Municipio conocido por sus fiestas, bares y piscinas.",
+    "information": " Acacia.",
+    "score": 4.5,
+    "url": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/girardot_zdafrw.jpg"
+  },
+  {
+    "name": "Guatavita",
+    "description": "Conocida por la leyenda del Dorado, esta laguna es un lugar sagrado y de muchos misterios.",
+    "information": " Los mejores orfebres.",
+    "score": 4.8,
+    "url": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/guatavita_asjgjt.jpg"
+  },
+  {
+    "name": "Villa de Leyva",
+    "description": "Municipio conocido por su arquitectura colonial, los varios paisajes que lo conforman.",
+    "information": "Arquitectura colonial.",
+    "score": 4.9,
+    "url": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/villa_ojqa3p.jpg"
+  },
+  {
+    "name": "Zipaquirá",
+    "description": "Conocida por su Catedral de Sal  y su cultura indígena.",
+    "information": "Catedral de Sal.",
+    "score": 4.0,
+    "url": "https://res.cloudinary.com/dk5hasdld/image/upload/v1637420533/zipaquira_ng7uul.jpg"
+  },
+  {
+    "name": "Playa Blanca",
+    "description": "Playas de arena blanca y aguas cristalinas y tranquilas que forman sus principales escenarios naturales para el turismo tradicional de sol y playa.",
+    "score": 5.0,
+    "url": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637380955/palmera_hjchkl.jpg",
+    "information":"Playas de arena blanca."
+  },
+  {
+    "name": "Volcán de Lodo El tesoro",
+    "description": "Ubicado sobre la carretera troncal que conduce a Lorica, a sólo un kilómetro de San Antero y penetrando otros 500 metros, es el principal atractivo para el turismo tradicional y el de salud, con la ventaja de que desde San Antero es fácil acceder al lugar y también a otros puntos turísticos cercanos.",
+    "score": 4.3,
+    "url": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637381391/volcanlodo2_kywcpb.jpg",
+    "information":"Atractivo para la salud."
+  },
+  {
+    "name": "Bahía de Cispatá",
+    "description": "Se caracteriza por tener el exótico encuentro entre el mar y la Ciénaga de la Caimanera, lo que permite disfrutar de agua dulce y salada en el mismo lugar. El recorrido en la lancha por la bahía inicia en el muelle de San Antero, a unos 10 minutos del centro del municipio, tiene un valor aproximado de $25.000 y dura alrededor de 2 horas.",
+    "score": 4.9,
+    "url": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637380955/bahia_cispata_oskxky.jpg",
+    "information" : "Agua dulce y salada."
+  },
+  {
+    "name": "Centro de Investigaciones Marinas y Costeras de Cispatá (CIMACI)",
+    "description": "Aquí se realiza el proyecto de conservación y manejo del caimán aguja, dirigido por los miembros de ASOCAIMÁN. Además se pueden observar otros animales como la tortuga albina. Las personas que dictan las charlas y realizan el recorrido son voluntarios así que lo ideal es darles una propina.",
+    "score": 5.0,
+    "url": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637380955/cocodrilos_vz2waj.jpg",
+    "information" : "Tortugas albinas y caimanes."
+  },
+  {
+    "name": "Mirador de Playa Blanca",
+    "description": "Cuenta con una serie de cabañas privadas, de las cuales un porcentaje se ha dispuesto para alquilar a una cantidad reducida de personas, conservando la privacidad y exclusividad de la zona.",
+    "score": 5.0,
+    "url": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637380955/cabanaspub_g27kl2.jpg",
+    "information" :"Cabañas para el descanso."
+  },
+  {
+    "name": "Barranquilla",
+    "description": "Es la capital del departamento del Atlantico, es un destino turistico de referencia, escenario del carnaval de Barranquilla y casa de la seleccion Colombia.",
+    "information": "La arenosa.",
+    "score": 5.0,
+    "url": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775398/barranquilla_dsbpwf.jpg"
+  },
+  {
+    "name": "Estadio Metropolitano",
+    "description": "Casa de varios equipos incluyendo la seleccion Colombia contruida en 1986 y remodelado y actualizado en el 2011.",
+    "information": "Casa de la selección.",
+    "score": 4.6,
+    "url": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775510/EstadioMetropolitano_cnusvc.jpg"
+  },
+  {
+    "name": "Catedral Metropolitana",
+    "description": "Es un referente arquitectonico en Colombia, su fachada con geometria pronunciada.",
+    "information": "Obra arquitectónica",
+    "score": 4.2,
+    "url": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775510/CatedralMetropolitana_i0omvz.jpg"
+  },
+  {
+    "name": "Castillo de Salgar",
+    "description": "Construido por el imperio español durante la colonia, hoy es centro cultural, tiene magnifica vista.",
+    "information": "Fortín de San antonio",
+    "score": 4.3,
+    "url": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775509/CastilloDeSalgar_gijtot.jpg"
+  },
+  {
+    "name": "Bocas de cenizas",
+    "description": "En este sitio se encuentra el rio Magdalena con el mar Caribe, el tajamar se puede recorrer en un pequeño tren, tambien se puede recorrer en planchones o botes y degustar de la comida tipica.",
+    "information": "Beso entre el río y el mar",
+    "score": 4.8,
+    "url": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775398/BocasDeCenizas_brvbfd.png"
+  },
+  {
+    "name": "Playa Miramar",
+    "description": "Cuenta con aguas de poco oleaje, aqui podras disfrutar las arenas y una vista maravillosa en su atardecer.",
+    "información": "Aguas cristalinas y calmadas",
+    "score": 5.0,
+    "url": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775520/PlayaMiramar_ould3r.jpg"
+  },
+  {
+    "name": "Pasto-Carnavales de Negros y Blancos",
+    "information":"Experiencia cultural inolvidable",
+    "description": "Estas fiestas, que tienen lugar los primeros días de enero, se destacan por las figuras gigantes, hechas por artesanos locales, que se pasean por las calles de la ciudad.",
+    "score": 5.0,
+    "url": "https://periodico.udenar.edu.co/wp-content/uploads/2017/01/carroza-ganadora-epica-2017-udenar-periodico.jpg"
+  },
+  {
+    "name": "Laguna de la Cocha",
+    "information":"Sistema de páramos.",
+    "description": "la Laguna de La Cocha se esconde entre la neblina de los días más fríos y brilla con la luz de los más soleados. En medio de ella, descansa la Isla la Corota, de la cual se dice fue una mujer convertida en isla y santuario, por causa de los celos. También se dice que la Isla La Corota fue la totuma que derramó el agua que originó al embalse.",
+    "score": 4.5,
+    "url": "https://awake.travel/storage/courses/1601566319341995.jpg"
+  },
+  {
+    "name": "Laguna de la Bolsa",
+    "information":"Hogar de la trucha arcoÍris.",
+    "description": "Esta laguna se caracteriza por el color gris de sus aguas, la temperatura muy fría y la ausencia de oleaje, circundada por vistosas colinas y pequeñas llanuras tapizadas de pastos naturales y de la vegetación propia de los páramos. Entre la fauna característica en la región se encuentran águilas, cusumbos, venados y guaguas; mientras la flora está representada por frailejones, encenillos y cojines.",
+    "score": 4.5,
+    "url": "https://kahuaritravel.com.co/wp-content/uploads/2016/01/foto-4-Laguna-Cumbal-Darwin-Estrada-01-01-GOBERNACIONed.jpg"
+  },
+  {
+    "name": "Santuario de Las Lajas",
+    "information":"Lugar mágico.",
+    "description": "Este bello templo posee muchas piedras preciosas y lujos dentro de ella, es muy conocida por su cuadro con corona de oro, zafiros, diamantes, perlas y esmeraldas. En el santuario también verás las llamadas lajas que son piedras planas y anchas color gris que rodean todo el lugar.",
+    "score": 5.0,
+    "url": "https://live.staticflickr.com/4501/36669538234_203b0acde5_b.jpg"
+  },
+  {
+    "name": "San Cipriano",
+    "description": "A las orillas de la carretera hacia Buenaventura, se encuentra el un pintoresco raizal del Pacífico Colombiano en medio de la selva, rodeado de ríos que son ideales para desarrollar actividades como: nadar, caretear, hacer tubing y kayak.",
+    "information": "Reserva natural.",
+    "score": 4.3,
+    "url": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381037/sanciprianoescalar_b90e6f.jpg"
+  },
+  {
+    "name": "Pico Del Loro.",
+    "description": "Montaña en el corregimiento de Pance (Cali) a de 2.860 metros de altura ,  ideal para deportistas, senderistas, aficionados a las aves y aquellas personas que simplemente disfrutan estar en un ambiente natural lejos de la ciudad con una pendiente que se incrementa progresivamente. La temporada más seca desde para apreciar las uves es en Enero, Febrero, Junio, Julio y Agosto.",
+    "score": 4.3,
+    "information": "Montaña a 2.300 metros.",
+    "url": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381012/picodelloroescalar_eoeivh.jpg"
+  },
+  {
+    "name": "Isla Gorgona.",
+    "description": "Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
+    "score": 4.8,
+    "information": "Antigua prisión.",
+    "url": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637380998/islagorgonaescalar_gccgfl.jpg"
+  },
+  {
+    "name": "Tatacoa.",
+    "description": "Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
+    "information": "Desierto.",
+    "score": 4.8,
+    "url": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637547358/desiertoescalar_lnr3tw.jpg"
+  }
+]

@@ -22,7 +22,7 @@
         </activity>
         <activity
             android:name=".detalle.MainActivity"
-            android:exported="false"/>
+            android:exported="true"/>
     </application>
 
 </manifest>

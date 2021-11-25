@@ -1,10 +1,13 @@
 package com.andresmolinasix.sprint2.list
 
+import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.andresmolinasix.sprint2.R
+import com.andresmolinasix.sprint2.detalle.MainActivity
 import com.andresmolinasix.sprint2.model.Turismo
 import com.andresmolinasix.sprint2.model.TurismoItem
 import com.google.gson.Gson
@@ -25,7 +28,7 @@ class ListTurismoActivity : AppCompatActivity() {
         //listSitios = craeteMockTurismo()
         listSitios = loadMockTurismoFromJson()
 
-        turismoAdapter = TurismoAdapter(listSitios)
+        turismoAdapter = TurismoAdapter(listSitios, onItemClicked = {onTurismoClicked(it)})
 
         turismoRecyclerView.apply {
             layoutManager = LinearLayoutManager(context)
@@ -33,6 +36,14 @@ class ListTurismoActivity : AppCompatActivity() {
             setHasFixedSize(false)
         }
 
+
+    }
+
+    private fun onTurismoClicked(turismo: TurismoItem) {
+        Log.d("lugar", turismo.information)
+        val intent = Intent(this, MainActivity::class.java)
+        intent.putExtra("turismo", turismo)
+        startActivity(intent)
 
     }
 
