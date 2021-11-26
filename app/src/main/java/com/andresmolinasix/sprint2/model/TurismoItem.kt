@@ -14,5 +14,7 @@ data class TurismoItem(
     @SerializedName("score")
     val score: Double,
     @SerializedName("url")
-    val url: String
+    val url: String,
+    @SerializedName("url2")
+    val url2: String
 ): Serializable
