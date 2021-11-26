@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">ColombiaPlacesToBe</string>
+    <string name="bogota">Bogotá</string>
+    <string name="informacion_general"><b>INFORMACIÓN GENERAL:</b> Esta ciudad es la capital del país en la altiplanicie más alta de los Andes colombianos.</string>
+    <string name="ubicacion"><b>UBICACIÓN:</b> Ubicada en el Centro del país, en la cordillera oriental, Bogotá tiene una extensión aproximada de 33 kilómetros de sur a norte y 16 kilómetros de oriente a occidente y se encuentra situada en las siguientes coordenadas: Latitud Norte: 4° 35\'56\'\' y Longitud Oeste de Greenwich: 74°04\'51\'\'</string>
+    <string name="temperatura"><b>TEMPERATURA:</b> Temperatura promedio es de 14°C (57°F) y en las noches de 10°C (50°F)</string>
+    <string name="sitios_recomendados"><b>SITIOS:</b> El cerro de Monserrate, La Candelaria y el casco histórico, Museo Botero, Museo del Oro, Barrio de Usaquén, Mirador de la Torre Colpatria, Parque Simón Bolívar</string>
+    <string name="content_description">Ciudad de Bogotá</string>
+    <string name="zipaquira" tools:ignore="MissingTranslation">Zipaquirá</string>
+    <string name="zipaquira_description" translatable="false">Imagen de Zipaquirá</string>
+    <string name="ubicacion_zipa" translatable="false">UBICACIÓN: Ubicado en el departamento de Cundinamarca, en la provincia de Sabana Centro, de la que es la capital y sede de su diócesis. Se encuentra a 29 km de Bogotá, y hace parte de su área metropolitana, 450 km de Medellín y a 117 km de Tunja.</string>
+    <string name="info_zipa" translatable="false">INFORMACIÓN GENERAL: Conocida por su Catedral de Sal  y su cultura indígena.</string>
+    <string name="temperatura_zipa" translatable="false">"TEMPERATURA:  En Zipaquirá, la temperatura promedio es de 13.1 °C. "</string>
+    <string name="sitios_zipa" translatable="false">SITIOS: Catedal de sal, Plaza de los Comuneros, Plaza del Minero, Parque Finkana, Desierto de la Tatacoita, Estación de Zipaquira.</string>
+    <string name="guatavita" translatable="false">Guatavita</string>
+    <string name="informacion_guatavita" translatable="false">INFORMACIÓN GENERAL: Conocida por la leyenda del Dorado, esta launa es un lugar sagrado y de muchos misterios.</string>
+    <string name="temperatura_guatavita" translatable="false">TEMPERATURA: Durante el transcurso del año, la temperatura generalmente varía de 6 °C a 18 °C y rara vez baja a menos de 2 °C o sube a más de 20 °C.</string>
+    <string name="ubicacion_guatavita" translatable="false">UBICACIÓN: La laguna de Guatavita se encuentra en la cordillera oriental de Colombia, en el municipio de Sesquilé, al norte de la cabecera municipal de Guatavita a una distancia de 63 km al norte de Bogotá.</string>
+    <string name="sitios_guatavita" translatable="false">SITIOS: Sesquilé, Guatavita, Museo Indigena, CafeBar El Club</string>
+    <string name="guatavita_description" translatable="false">Imagen de Guatavita</string>
+    <string name="girardot" translatable="false">Girardot</string>
+    <string name="informacion_girardot" translatable="false">INFORMACIÓN GENERAL: Municipio conocido por sus fiestas, bares y piscinas.</string>
+    <string name="ubicacion_girardot" translatable="false">UBICACIÓN:  Ubicado en la Provincia del Alto Magdalena, de la cual es capital. Limita al norte con los municipios de Nariño y Tocaima, al sur con el municipio de Flandes y el río Magdalena, al oeste con el municipio de Nariño, el río Magdalena y el municipio de Coello y al este con el municipio de Ricaurte y el río Bogotá. Está ubicado a 134 km al suroeste de Bogotá</string>
+    <string name="temperatura_girardot" translatable="false">TEMPERATURA: La temperatura media promedio es de 27.8 °C.</string>
+    <string name="sitios_ubicacion" translatable="false">UBICACIÓN: Piscilago, Catedral de Girardot, Parque de la Locomotora, Aventura Colombiana</string>
+    <string name="sitios_girardot" translatable="false">SITIOS: Piscilago, Catedral de Girardot, Parque de la Locomotora, Aventura Colombiana</string>
+    <string name="girardot_description" translatable="false">Imagen de Girardot</string>
+    <string name="villa_de_leyva" translatable="false">Villa de Leyva</string>
+    <string name="informacion_villa" translatable="false">INFORMACIÓN GENERAL: Municipio conocido por su arquitectura colonial, los varios paisajes que lo conforman y sus reconocidos festivales.</string>
+    <string name="ubicacion_villa" translatable="false">UBICACIÓN: Ubicado en la provincia de Ricaurte del departamento de Boyacá. Está ubicado a 40 km al occidente de Tunja, capital del departamento, y a 165 km de Bogotá,</string>
+    <string name="temperatura_villa" translatable="false">TEMPERATURA: La temperatura generalmente varía de 10 °C a 22 °C y rara vez baja a menos de 5 °C o sube a más de 24 °C.</string>
+    <string name="sitios_villa" translatable="false">SITIOS: Casa de Terracota, Plaza Mayor, Museo El Fósil, Casa Muse Antonio Nariño.</string>
+    <string name="villa_description" translatable="false">Imgen de Villa de Leyva</string>
+    <string name="registro" translatable="false">Registro de un POI</string>
+    <string name="registrar" translatable="false">Registrar POI</string>
+    <string name="nombre" translatable="false">Nombre:</string>
+    <string name="descripcion" translatable="false">Descripción:</string>
+    <string name="pequeña_descripcion_bogota" translatable="false"><b>Descripción:</b> Capital de Colombia, conocida por su variada cultura, sitios turísticos, museos y vida nocturna.</string>
+    <string name="imagen_bogota" translatable="false">Imagen de Bogotá</string>
+    <string name="calificacion_bogota" translatable="false"><b>Calificación:</b> 4.5</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

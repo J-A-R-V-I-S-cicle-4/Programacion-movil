@@ -1,11 +1,20 @@
-package com.jarvis.colombiaplacestobe
+package com.jarvis.poi.model
 
 
 import com.google.gson.annotations.SerializedName
+import java.io.Serializable
 
 data class PlacesofinterestItem(
     @SerializedName("calificacion")
     val calificacion: Double,
+    @SerializedName("sitios")
+    val sitios: String,
+    @SerializedName("temperatura")
+    val temperatura: String,
+    @SerializedName("ubicacion")
+    val ubicacion: String,
+    @SerializedName("informacion")
+    val informacion: String,
     @SerializedName("descripcion")
     val descripcion: String,
     @SerializedName("name")
@@ -14,4 +23,4 @@ data class PlacesofinterestItem(
     val nombre: String,
     @SerializedName("urlPicture")
     val urlPicture: String
-)
+) : Serializable

@@ -1,4 +1,4 @@
-package com.jarvis.colombiaplacestobe
+package com.jarvis.colombiaplacestobe.registro
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +7,8 @@ import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import com.jarvis.colombiaplacestobe.detalle.DetalleActivity
+import com.jarvis.colombiaplacestobe.R
 
 class RegistroPoi : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -27,7 +29,7 @@ class RegistroPoi : AppCompatActivity() {
 
             //val placeofinterest = Placesofinterest(nombre, descripcion)
 
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, DetalleActivity::class.java)
             intent.putExtra("nombre", nombre)
             startActivity(intent)
         }

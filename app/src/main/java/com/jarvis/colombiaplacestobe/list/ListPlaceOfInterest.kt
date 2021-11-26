@@ -1,10 +1,15 @@
-package com.jarvis.colombiaplacestobe
+package com.jarvis.colombiaplacestobe.list
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.gson.Gson
+import com.jarvis.colombiaplacestobe.R
+import com.jarvis.colombiaplacestobe.detalle.DetalleActivity
+import com.jarvis.colombiaplacestobe.model.Placesofinterest
+import com.jarvis.colombiaplacestobe.model.PlacesofinterestItem
 
 class ListPlaceOfInterest : AppCompatActivity() {
 
@@ -20,13 +25,19 @@ class ListPlaceOfInterest : AppCompatActivity() {
 
         //listPoi = createMockPlaceofinterest()
         listPoi = loadMockPLaceOfinterestFromJson()
-        poiAdapter = PoiAdapter(listPoi)
+        poiAdapter = PoiAdapter(listPoi, onItemClicked = {onPoiClicked(it) })
 
         poiRecycleView.apply {
             layoutManager = LinearLayoutManager(context)
             adapter = poiAdapter
             setHasFixedSize(false)
         }
+    }
+
+    private fun onPoiClicked(placeofinterest: PlacesofinterestItem) {
+        val intent = Intent(this, DetalleActivity::class.java)
+        intent.putExtra("placeofinterest", placeofinterest)
+        startActivity(intent)
     }
 
     private fun loadMockPLaceOfinterestFromJson(): ArrayList<PlacesofinterestItem> {

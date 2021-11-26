@@ -1,4 +1,4 @@
-package com.jarvis.colombiaplacestobe
+package com.jarvis.poi.list
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,9 +6,13 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.jarvis.poi.R
+import com.jarvis.poi.model.PlacesofinterestItem
 import com.squareup.picasso.Picasso
 
-class PoiAdapter(private val poiList: ArrayList<PlacesofinterestItem>
+class PoiAdapter(
+    private val poiList: ArrayList<PlacesofinterestItem>,
+    private val onItemClicked: (PlacesofinterestItem) -> Unit
 ) : RecyclerView.Adapter<PoiAdapter.PlaceofinterestViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PlaceofinterestViewHolder {
@@ -18,6 +22,7 @@ class PoiAdapter(private val poiList: ArrayList<PlacesofinterestItem>
 
     override fun onBindViewHolder(holder: PlaceofinterestViewHolder, position: Int) {
         val placesofinterest = poiList[position]
+        holder.itemView.setOnClickListener { onItemClicked(poiList[position]) }
         holder.bind(placesofinterest)
 
     }
@@ -40,3 +45,4 @@ class PoiAdapter(private val poiList: ArrayList<PlacesofinterestItem>
         }
     }
 }
+
