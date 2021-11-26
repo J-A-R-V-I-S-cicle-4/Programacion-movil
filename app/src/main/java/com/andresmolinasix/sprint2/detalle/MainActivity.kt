@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
             descriptionTextView?.text = turismo.description
             informationTextView?.text = turismo.information
             scoreTextView?.text = turismo.score.toString()
-            Picasso.get().load(turismo.url).into(pictureImageView)
+            Picasso.get().load(turismo.url2).into(pictureImageView)
         }
     }
 }

@@ -7,6 +7,8 @@ import java.io.Serializable
 data class TurismoItem(
     @SerializedName("description")
     val description: String,
+    @SerializedName("url2")
+    val url2: String,
     @SerializedName("information")
     val information: String,
     @SerializedName("name")

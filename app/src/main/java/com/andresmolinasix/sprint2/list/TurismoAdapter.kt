@@ -33,6 +33,7 @@ class TurismoAdapter (
         private val nameTextView : TextView = itemView.findViewById(R.id.name_text_view)
         private val descripTextView: TextView = itemView.findViewById(R.id.descrip_text_view)
         private val imagenPictureView : ImageView = itemView.findViewById(R.id.picture_image_view)
+        private val imagenListPictureView : ImageView = itemView.findViewById(R.id.picture_image_view)
         private val scoreTextView : TextView =itemView.findViewById(R.id.score_text_view)
 
         fun bind(turismo: TurismoItem){
