@@ -41,7 +41,8 @@ class ListFragment : Fragment() {
 
 
     private fun onPoiClicked(placeofinterest: PlacesofinterestItem) {
-        findNavController().navigate(ListFragmentDirections.actionListFragmentToDetailFragment(poi = placeofinterest))
+        findNavController().navigate(ListFragmentDirections.actionListFragmentToSettingsFragment())
+        //findNavController().navigate(ListFragmentDirections.actionListFragmentToDetailFragment(poi = placeofinterest))
     }
 
     private fun loadMockPLaceOfinterestFromJson(): ArrayList<PlacesofinterestItem> {
