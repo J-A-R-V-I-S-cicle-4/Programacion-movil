@@ -9,6 +9,7 @@ import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.gson.Gson
 import com.jarvis.poi.databinding.FragmentListBinding
+import com.jarvis.poi.main.MainActivity
 import com.jarvis.poi.model.Placesofinterest
 import com.jarvis.poi.model.PlacesofinterestItem
 
@@ -18,6 +19,7 @@ class ListFragment : Fragment() {
     private lateinit var listBinding: FragmentListBinding
     private lateinit var poiAdapter: PoiAdapter
     private lateinit var listPoi: ArrayList<PlacesofinterestItem>
+
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -30,6 +32,7 @@ class ListFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        (activity as MainActivity?)?.hideIcon()
         listPoi = loadMockPLaceOfinterestFromJson()
         poiAdapter = PoiAdapter(listPoi, onItemClicked = {onPoiClicked(it) })
         listBinding.poiRecycleView.apply {
@@ -41,8 +44,8 @@ class ListFragment : Fragment() {
 
 
     private fun onPoiClicked(placeofinterest: PlacesofinterestItem) {
-        findNavController().navigate(ListFragmentDirections.actionListFragmentToSettingsFragment())
-        //findNavController().navigate(ListFragmentDirections.actionListFragmentToDetailFragment(poi = placeofinterest))
+        //findNavController().navigate(ListFragmentDirections.actionListFragmentToDetailFragment()
+        findNavController().navigate(ListFragmentDirections.actionListFragmentToDetailFragment(poi = placeofinterest))
     }
 
     private fun loadMockPLaceOfinterestFromJson(): ArrayList<PlacesofinterestItem> {
