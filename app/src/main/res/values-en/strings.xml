@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bogota">Bogotá</string>
+    <string name="informacion_general"><b>GENERAL INFORMATION: </b> This city is the capital of the country in the highest plateau of the Colombian Andes.</string>
+    <string name="ubicacion"><b>LOCATION: </b> Located in the center of the country, in the eastern mountain range, Bogotá has an approximate extension of 33 kilometers from south to north and 16 kilometers from east to west.</string>
+    <string name="temperatura"><b>TEMPERATURE: </b> Average temperature is 14 ° C (57 ° F) and at night 10 ° C (50 ° F)</string>
+    <string name="sitios_recomendados"><b>SITES: </b> The hill of Monserrate, La Candelaria and the old town, Botero Museum, Gold Museum, Usaquén neighborhood, Torre Colpatria viewpoint, Simon Bolívar Park.</string>
+    <string name="content_description">Image of Bogota City</string>
+</resources>

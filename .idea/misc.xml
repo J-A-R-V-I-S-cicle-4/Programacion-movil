@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout-land/activity_main.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_detalle.xml" value="0.33" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_list_place_of_interest.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_main.xml" value="0.33152173913043476" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/activity_registro_poi.xml" value="0.33" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/app/src/main/res/layout/card_view_poi_item.xml" value="0.33" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/drawable/ic_notifications.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/drawable/ic_sound_notifications.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/layout/activity_bottom.xml" value="0.22" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/layout/card_view_poi_item.xml" value="0.271875" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/layout/fragment_detail.xml" value="0.2578125" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/layout/fragment_list.xml" value="0.271875" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/layout/fragment_notifications.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/menu/bottom_nav_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Christian/AndroidStudioProjects/Programacion-movil/poi/src/main/res/xml/root_preferences.xml" value="0.271875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
