@@ -40,7 +40,7 @@ class DetailFragment : Fragment() {
             locationTextView.text = placeofinterest.ubicacion
             temperatureTextView.text = placeofinterest.temperatura
             placesTextView.text = placeofinterest.sitios
-            Picasso.get().load(placeofinterest.urlPicture).into(pictureImageView)
+            Picasso.get().load(placeofinterest.urlPicture2).into(pictureImageView)
         }
     }
 }

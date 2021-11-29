@@ -22,5 +22,7 @@ data class PlacesofinterestItem(
     @SerializedName("nombre")
     val nombre: String,
     @SerializedName("urlPicture")
-    val urlPicture: String
+    val urlPicture: String,
+    @SerializedName("urlPicture2")
+    val urlPicture2: String
 ) : Serializable

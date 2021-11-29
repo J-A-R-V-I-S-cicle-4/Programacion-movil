@@ -35,6 +35,7 @@ class PoiAdapter(
         private var descriptionTextView: TextView = itemView.findViewById(R.id.description_text_view)
         private var scoreTextView: TextView = itemView.findViewById(R.id.score_text_view)
         private var pictureImageView: ImageView = itemView.findViewById(R.id.picture_image_view)
+        private var pictureListImageView: ImageView = itemView.findViewById(R.id.picture_image_view)
 
         fun bind(placesofinterest: PlacesofinterestItem){
             nameTextView.text = placesofinterest.nombre

@@ -38,6 +38,7 @@ class PoiAdapterDos(
         private var placesTextView: TextView = itemView.findViewById(R.id.places_text_view)
         private var pictureImageView: ImageView = itemView.findViewById(R.id.picture_image_view)
 
+
         fun bind(placesofinterest: PlacesofinterestItem){
             nameTextView.text = placesofinterest.nombre
             informationTextView.text = placesofinterest.informacion
