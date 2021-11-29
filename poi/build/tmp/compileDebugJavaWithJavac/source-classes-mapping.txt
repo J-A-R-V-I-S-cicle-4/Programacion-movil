@@ -1,0 +1,10 @@
+com/jarvis/poi/databinding/ActivityMainBinding.java
+ com.jarvis.poi.databinding.ActivityMainBinding
+com/jarvis/poi/BuildConfig.java
+ com.jarvis.poi.BuildConfig
+com/jarvis/poi/databinding/FragmentDetailBinding.java
+ com.jarvis.poi.databinding.FragmentDetailBinding
+com/jarvis/poi/databinding/FragmentListBinding.java
+ com.jarvis.poi.databinding.FragmentListBinding
+com/jarvis/poi/databinding/CardViewPoiItemBinding.java
+ com.jarvis.poi.databinding.CardViewPoiItemBinding
