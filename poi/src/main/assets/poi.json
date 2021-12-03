@@ -110,6 +110,17 @@
     "sitios": "SITIOS: Cabañas privadas, restaurantes, cevichería."
   },
   {
+    "nombre": "Ciénaga de Ayapel",
+    "descripcion": "Riqueza en biodiversidad",
+    "informacion":"INFORMACION GENERAL: La ciénaga de Ayapel hace parte del macrosistema de humedales y zonas inundables de la depresión Momposina. Es un sistema de lagunas de la llanura fluvial del río San Jorge.",
+    "calificacion": 4.7,
+    "urlPicture": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/c_scale,w_200/v1638494825/ci%C3%A9naga-de-ayapel_ns3kqa.jpg",
+    "urlPicture2": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/c_scale,w_1000/v1638494825/ci%C3%A9naga-de-ayapel_ns3kqa.jpg",
+    "ubicacion": "UBICACION: Se encuentra en Ayapel, Córdoba",
+    "temperatura":"TEMPERATURA: La temperatura promedio es de 27°C ",
+    "sitios": "SITIOS: Muelle, Boca de Sehebe, Catedral de Ayapel."
+  },
+  {
     "nombre": "Volcán de Lodo El tesoro",
     "descripcion": "Atractivo natural para la salud.",
     "informacion":"INFORMACION GENERAL: Es el principal atractivo para el turismo tradicional y el de la salud, con la ventaja de que desde San Antero es fácil acceder al lugar y también a otros puntos turísticos cercanos.",
