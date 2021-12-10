@@ -56,7 +56,7 @@
   },
   {
     "nombre": "Carnval de Negros y Blancos",
-    "descripcion": "Experiencia cultural nolvidable.",
+    "descripcion": "Experiencia cultural inolvidable.",
     "informacion": "INFORMACIÓN GENERAL: El Carnaval de Negros y Blancos tiene su origen en la fusión de múltiples culturas y expresiones.",
     "ubicacion": "UBICACIÓN: Este evento se desarrolla en la ciudad de Pasto y se celebra del 2 al 7 de enero de cada año, y atrae un considerable número de turistas colombianos y extranjeros.",
     "temperatura": "TEMPERATURA:  En Pasto, la temperatura promedio es de 16 °C.",
@@ -88,9 +88,9 @@
     "urlPicture2": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1637892941/bolsax1000_vrcc5w.jpg"
   },
   {
-    "nombre": "Santuario de Las Lajas",
-    "descripcion": "El Santuario de las Lajas es un templo muy conocido por los cristianos colombianos; su arquitectura y aspecto han convertido a este sitio en algo mágico, como salido de un cuento de reyes y princesas.",
-    "informacion": "INFORMACIÓN GENERAL: Este bello templo posee muchas piedras preciosas y lujos dentro de ella, es muy conocida por su cuadro con corona de oro, zafiros, diamantes, perlas y esmeraldas. En el santuario también verás las llamadas lajas que son piedras planas y anchas color gris que rodean todo el lugar.",
+    "nombre": "Santuario de Las Lajas.",
+    "descripcion": "Lugar magico",
+    "informacion": "INFORMACIÓN GENERAL: Este bello templo posee muchas piedras preciosas y lujos dentro de ella, es muy conocida por su cuadro con corona de oro, zafiros, diamantes, perlas y esmeraldas. En el santuario también verás las llamadas lajas que son piedras planas y anchas color gris que rodean todo el lugar.\nEl Santuario de las Lajas es un templo muy conocido por los cristianos colombianos; su arquitectura y aspecto han convertido a este sitio en algo mágico, como salido de un cuento de reyes y princesas.",
     "ubicacion": "UBICACIÓN: Se encuentra ubicado en Ipiales, Nariño.",
     "temperatura": "TEMPERATURA: En Ipiales la temperatura normalmente es de 12 °C.",
     "sitios": "SITIOS: Teleférico Las Lajas, Centro Comercial Gran Plaza, Rumichaca, Tulcan. ",
@@ -133,7 +133,7 @@
   },
   {
     "nombre": "CIMACI",
-    "descripcion": "Conservación del caimán aguja -Crocodylus acutus-",
+    "descripcion": "Conservación del caimán aguja -Cr_ocodylus acutus-",
     "informacion":"INFORMACION GENERAL: Aquí se realiza el proyecto de conservación y manejo del caimán aguja, dirigido por los miembros de ASOCAIMÁN. Además se pueden observar otros animales como la tortuga albina. Las personas que dictan las charlas y realizan el recorrido son voluntarios así que lo ideal es darles una propina.",
     "calificacion": 5.0,
     "urlPicture": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637380955/cocodrilos_vz2waj.jpg",
@@ -154,88 +154,88 @@
     "sitios":"SITIOS: Muelle turístico, bares, restaurantes."
   },{
   "nombre": "Barranquilla",
-  "descripcion": "Es la capital del departamento del Atlántico, es un destino turístico de referencia, escenario del carnaval de Barranquilla y casa de la selección Colombia.",
-  "informacion":"La arenosa",
+  "descripcion": "La arenosa.",
+  "informacion":"INFORMACION GENERAL: Es la capital del departamento del Atlántico, es un destino turístico de referencia, escenario del carnaval de Barranquilla y casa de la selección Colombia.",
   "calificacion": 5.0,
   "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775398/barranquilla_dsbpwf.jpg",
   "urlPicture2": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637874774/barranquillaO_fntn4q.jpg",
   "ubicacion" : "Barranquilla, ubicada en el Departamento del Atlántico al norte de Colombia y de Suramérica, a la orilla occidental del Rio Magdalena y a 15 Km de la desembocadura de este en el Mar Caribe.",
-  "temperatura":"En Barranquilla la temperatura promedio es de 27°C."
+  "temperatura":"TEMPERATURA: En Barranquilla la temperatura promedio es de 27°C."
 },{
   "nombre": "Estadio Metropolitano",
-  "descripcion": "Casa de varios equipos incluyendo la selección Colombia construida en 1986 y remodelado y actualizado en el 2011.",
-  "informacion":"Casa de la selección",
+  "descripcion": "Casa de la selección.",
+  "informacion":"INFORMACION GENERAL: Casa de varios equipos incluyendo la selección Colombia construida en 1986 y remodelado y actualizado en el 2011.",
   "calificacion": 4.6,
   "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775510/EstadioMetropolitano_cnusvc.jpg",
   "urlPicture2": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637875445/EstadiometropolitanoO_wcdyhe.jpg",
-  "ubicacion":"El Metropolitano está ubicado en la localidad Metropolitana en el sur de la ciudad, en el límite entre Barranquilla y el municipio de Soledad, ubicado en populoso sector de la Ciudadela Veinte de Julio.",
-  "temperatura":"La temperatura promedio es de 27°C."
+  "ubicacion":"UBICACION: El Metropolitano está ubicado en la localidad Metropolitana en el sur de la ciudad, en el límite entre Barranquilla y el municipio de Soledad, ubicado en populoso sector de la Ciudadela Veinte de Julio.",
+  "temperatura":"TEMPERATURA: La temperatura promedio es de 27°C."
 },{
   "nombre": "Catedral Metropolitana",
-  "descripcion": "Es un referente arquitectónico en Colombia, su fachada con geometría pronunciada, es una iglesia catedralicia de culto catolico dedicada a la Santisima Virgen Maria Reina y es el principal templo de la arquidiócesis de Barranquilla y sede del arzobispo.",
-  "informacion":"Obra arquitectónica",
+  "descripcion": "Obra arquitectónica",
+  "informacion":"INFORMACION GENERAL: Es un referente arquitectónico en Colombia, su fachada con geometría pronunciada, es una iglesia catedralicia de culto catolico dedicada a la Santisima Virgen Maria Reina y es el principal templo de la arquidiócesis de Barranquilla y sede del arzobispo.",
   "calificacion": 4.2,
   "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775510/CatedralMetropolitana_i0omvz.jpg",
   "urlPicture2": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637875341/CatedralmetropolitanaO_wzfe16.jpg",
-  "ubicacion":"La Catedral está situada en la zona céntrica de la ciudad, costado ocidental de la plaza de la paz.",
-  "temperatura":"La temperatura promedio es de 27°C."
+  "ubicacion":"UBICACION: La Catedral está situada en la zona céntrica de la ciudad, costado ocidental de la plaza de la paz.",
+  "temperatura":"TEMPERATURA: La temperatura promedio es de 27°C."
 },{
   "nombre": "Castillo de Salgar",
-  "descripcion": "Construido por el imperio español durante la colonia para controlar el contrabando, en la actualidad alberga un restaurante y sirve como centro de eventos y escenario para la recreación familiar y cultural,",
-  "informacion":"Fortín de San antonio",
+  "descripcion": "Fortín de San antonio",
+  "informacion":"INFORMACION GENERAL: Construido por el imperio español durante la colonia para controlar el contrabando, en la actualidad alberga un restaurante y sirve como centro de eventos y escenario para la recreación familiar y cultural,",
   "calificacion": 4.3,
   "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775509/CastilloDeSalgar_gijtot.jpg",
   "urlPicture2": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637875023/CastillodesalgarO_ab9lsk.jpg",
-  "ubicacion":"El Castillo se encuentra ubicada en el municipio de Puerto Colombia a 20 min de Barranquilla, en dirección noroccidental.",
-  "temperatura":"La temperatura promedio es de 27°C."
+  "ubicacion":"UBICACION: El Castillo se encuentra ubicada en el municipio de Puerto Colombia a 20 min de Barranquilla, en dirección noroccidental.",
+  "temperatura":"TEMPERATURA: La temperatura promedio es de 27°C."
 },{
   "nombre": "Bocas de cenizas",
-  "descripcion": "En este sitio se encuentra el río Magdalena con el mar Caribe, el tajamar se puede recorrer en un pequeño tren, también se puede recorrer en planchones o botes y degustar de la comida típica.",
-  "informacion":"Beso entre el río y el mar",
+  "descripcion": "Beso entre el río y el mar",
+  "informacion":"INFORMACION GENERAL: En este sitio se encuentra el río Magdalena con el mar Caribe, el tajamar se puede recorrer en un pequeño tren, también se puede recorrer en planchones o botes y degustar de la comida típica.",
   "calificacion": 4.8,
   "urlPicture": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637775398/BocasDeCenizas_brvbfd.png",
   "urlPicture2": "https://res.cloudinary.com/dyogbeeoi/image/upload/v1637874967/BocasdecenizasO_r7t1ln.png",
-  "ubicacion":"Bocas de cenizas se encuentra en la zona llamada vía 40, en el barrio las flores.",
-  "temperatura":"La temperatura promedio es de 27°C."
+  "ubicacion":"UBICACION: Bocas de cenizas se encuentra en la zona llamada vía 40, en el barrio las flores.",
+  "temperatura":"TEMPERATURA: La temperatura promedio es de 27°C."
 },
   {
     "nombre": "San Cipriano",
-    "descripcion": "A las orillas de la carretera hacia Buenaventura, se encuentra el un pintoresco raizal del Pacífico Colombiano en medio de la selva, rodeado de ríos que son ideales para desarrollar actividades como: nadar, caretear, hacer tubing y kayak.",
-    "informacion": "Reserva natural.",
+    "descripcion": "Reserva natural.",
+    "informacion": "INFORMACION GENERAL: A las orillas de la carretera hacia Buenaventura, se encuentra el un pintoresco raizal del Pacífico Colombiano en medio de la selva, rodeado de ríos que son ideales para desarrollar actividades como: nadar, caretear, hacer tubing y kayak.",
     "calificacion": 4.3,
     "urlPicture": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381037/sanciprianoescalar_b90e6f.jpg",
     "urlPicture2": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637893580/sancipriano_vvqpb0.jpg",
-    "temperatura":"La temperatura promedio es de 27°C."
+    "temperatura":"TEMPERATURA: La temperatura promedio es de 27°C."
   },
   {
     "nombre": "Pico Del Loro.",
-    "descripcion": "Montaña en el corregimiento de Pance (Cali) a de 2.860 metros de altura ,  ideal para deportistas, senderistas, aficionados a las aves y aquellas personas que simplemente disfrutan estar en un ambiente natural lejos de la ciudad con una pendiente que se incrementa progresivamente. La temporada más seca desde para apreciar las uves es en Enero, Febrero, Junio, Julio y Agosto.",
+    "descripcion": "Montaña a 2.300 metros.",
     "calificacion": 4.3,
-    "informacion": "Montaña a 2.300 metros.",
+    "informacion": "INFORMACION GENERAL: Montaña en el corregimiento de Pance (Cali) a de 2.860 metros de altura ,  ideal para deportistas, senderistas, aficionados a las aves y aquellas personas que simplemente disfrutan estar en un ambiente natural lejos de la ciudad con una pendiente que se incrementa progresivamente. La temporada más seca desde para apreciar las uves es en Enero, Febrero, Junio, Julio y Agosto.",
     "urlPicture": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637381012/picodelloroescalar_eoeivh.jpg",
     "urlPicture2": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637893579/picodelloro_rksn9i.jpg",
-    "ubicacion": "10 km a la",
-    "temperatura": "La temperatura promedio es de 27°C."
+    "ubicacion": "UBICACION: 10 km a la",
+    "temperatura": "TEMPERATURA: La temperatura promedio es de 27°C."
 
 
   },
   {
     "nombre": "Isla Gorgona.",
-    "descripcion": "Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
+    "descripcion": "Antigua prisión.",
     "calificacion": 4.8,
-    "informacion": "Antigua prisión.",
+    "informacion": "INFORMACION GENERAL: Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
     "urlPicture": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637380998/islagorgonaescalar_gccgfl.jpg",
     "urlPicture2": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637893579/islagorgona_kdqo9z.jpg",
-    "temperatura":"La temperatura promedio es de 27°C."
+    "temperatura":"TEMPERATURA: La temperatura promedio es de 27°C."
   },
   {
     "nombre": "Tatacoa.",
-    "descripcion": "Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
-    "informacion": "Desierto.",
+    "descripcion": "Desierto.",
+    "informacion": "INFORMACION GENERAL: Hace menos de tres décadas, la isla de Gorgona era tristemente conocida por albergar la prisión más temida del país. Pero de aquellos años amargos hoy tan sólo quedan las ruinas devoradas por la agreste y húmeda selva. Gorgona se transformó para convertirse en la actualidad en uno de los escenarios naturales más ricos de Colombia. La isla, compuesta por tres islotes, entre ellos Gorgonilla, es un laboratorio natural conformado por una espesa selva húmeda tropical que cubre sin piedad todo lo que se atraviesa en su camino.",
     "calificacion": 4.8,
     "urlPicture": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637547358/desiertoescalar_lnr3tw.jpg",
     "urlPicture2": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637893579/desierto_fr7ruo.jpg",
-    "temperatura":"La temperatura promedio es de 27°C."
+    "temperatura":"TEMPERATURA: La temperatura promedio es de 27°C."
 
   }
 ]
