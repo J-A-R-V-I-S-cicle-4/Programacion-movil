@@ -27,7 +27,9 @@
         <argument
             android:name="poi"
             app:argType="com.jarvis.poi.model.PlacesofinterestItem" />
-
+        <action
+            android:id="@+id/action_detailFragment_to_mapsFragment"
+            app:destination="@id/mapsFragment" />
 
 
     </fragment>
@@ -35,4 +37,13 @@
         android:id="@+id/settingsFragment"
         android:name="com.jarvis.poi.preference.SettingsFragment"
         android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.jarvis.poi.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" >
+        <argument
+            android:name="poi"
+            app:argType="com.jarvis.poi.model.PlacesofinterestItem" />
+    </fragment>
 </navigation>

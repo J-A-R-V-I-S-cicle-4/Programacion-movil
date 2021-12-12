@@ -24,5 +24,11 @@ data class PlacesofinterestItem(
     @SerializedName("urlPicture")
     val urlPicture: String,
     @SerializedName("urlPicture2")
-    val urlPicture2: String
+    val urlPicture2: String,
+    @SerializedName("latitud")
+    val latitud: Double,
+    @SerializedName("longitud")
+    val longitud: Double,
+    @SerializedName("zoom")
+    val zoom: Float
 ) : Serializable
