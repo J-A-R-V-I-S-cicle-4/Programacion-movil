@@ -2,48 +2,6 @@
   "placesofinterest":
   [
     {
-      "nombre": "Laguna de Cumbal",
-      "descripcion": "La Laguna de Cumbal es un lugar fascinante, con un paisaje hermoso adornado por frailejones y un verde incomparable.",
-      "informacion": "INFORMACIÓN GENERAL: La laguna de Cumbal, también llamada laguna de La Bolsa, está ubicada en la falda del volcán Cumbal, a 3440 metros sobre el nivel del mar. En las aguas de esta laguna habita la trucha arcoíris, por lo que podrá practicar pesca deportiva. Lo mejor de visitar la laguna es entrar en una tranquilidad profunda mientras se ve el paisaje y se disfruta del sonido de aves que cantan alrededor.",
-      "ubicacion": "UBICACIÓN: Ubicada a una distancia de 8 kilómetros al oriente del municipio de Cumbal.",
-      "temperatura": "TEMPERATURA: La temperatura promedio es de 11 °C aproximadamente.",
-      "sitios": "SITIOS: Volcán Cumbal, Piedra de Machines, Volcán Chiles. ",
-      "calificacion": 4.6,
-      "urlPicture": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1637892940/bolsax200_d37qek.jpg",
-      "urlPicture2": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1637892941/bolsax1000_vrcc5w.jpg",
-      "latitud": 0.9517095,
-      "longitud": -77.8347318,
-      "zoom": 13
-    },
-    {
-      "nombre": "Santuario de Las Lajas",
-      "descripcion": "El Santuario de las Lajas es un templo muy conocido por los cristianos colombianos; su arquitectura y aspecto han convertido a este sitio en algo mágico, como salido de un cuento de reyes y princesas.",
-      "informacion": "INFORMACIÓN GENERAL: Este bello templo posee muchas piedras preciosas y lujos dentro de ella, es muy conocida por su cuadro con corona de oro, zafiros, diamantes, perlas y esmeraldas. En el santuario también verás las llamadas lajas que son piedras planas y anchas color gris que rodean todo el lugar.",
-      "ubicacion": "UBICACIÓN: Se encuentra ubicado en Ipiales, Nariño.",
-      "temperatura": "TEMPERATURA: En Ipiales la temperatura normalmente es de 12 °C.",
-      "sitios": "SITIOS: Teleférico Las Lajas, Centro Comercial Gran Plaza, Rumichaca, Tulcan. ",
-      "calificacion": 4.8,
-      "urlPicture": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1637892940/lajasx200_vism5v.jpg",
-      "urlPicture2": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1637892942/lajasx1000_yq6hft.jpg",
-      "latitud": 0.805459,
-      "longitud": -77.588047,
-      "zoom": 14
-    },
-    {
-      "nombre": "Playa Blanca",
-      "descripcion": "Playas de arena blanca",
-      "informacion":"INFORMACION GENERAL: Playas de arena blanca y aguas cristalinas y tranquilas que forman sus principales escenarios naturales para el turismo tradicional de sol y playa.",
-      "calificacion": 5.0,
-      "urlPicture": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637380955/palmera_hjchkl.jpg",
-      "urlPicture2": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/c_scale,w_1000/v1637894195/vistacarpa_c8h4ch.jpg",
-      "ubicacion": "UBICACION: Se encuentra en San Antero, a menos de 1 km de Playa Grande",
-      "temperatura":"TEMPERATURA: La temperatura promedio es de 33°C ",
-      "sitios": "SITIOS: Cabañas privadas, restaurantes, cevichería.",
-      "latitud": 10.2952265,
-      "longitud": -75.5890604,
-      "zoom": 21
-    },
-    {
       "nombre": "Volcán de Lodo El tesoro",
       "descripcion": "Atractivo natural para la salud.",
       "informacion":"INFORMACION GENERAL: Es el principal atractivo para el turismo tradicional y el de la salud, con la ventaja de que desde San Antero es fácil acceder al lugar y también a otros puntos turísticos cercanos.",
