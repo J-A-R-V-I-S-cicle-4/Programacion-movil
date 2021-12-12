@@ -2,20 +2,6 @@
   "placesofinterest":
   [
     {
-      "nombre": "Bahía de Cispatá",
-      "descripcion": "Encuentro de agua dulce y salada.",
-      "informacion":"INFORMACION GENERAL: Se caracteriza por tener el exótico encuentro entre el mar y la Ciénaga de la Caimanera, lo que permite disfrutar de agua dulce y salada en el mismo lugar. El recorrido en la lancha por la bahía inicia en el muelle de San Antero, a unos 10 minutos del centro del municipio, tiene un valor aproximado de $25.000 y dura alrededor de 2 horas.",
-      "calificacion": 4.9,
-      "urlPicture": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/c_scale,w_200/v1637887788/bahiacispata_d3lcsj.jpg",
-      "urlPicture2": "https://res.cloudinary.com/j-a-r-v-i-s/image/upload/v1637887788/bahiacispata_d3lcsj.jpg",
-      "ubicacion":"UBICACION: Se encuentra ubicada en la zona estuaria del Golfo de Morrosquillo",
-      "temperatura":"La temperatura promedio es de 33°C " ,
-      "sitios":"SITIOS: Muelle, Cispata Marina Hotel.",
-      "latitud": 9.4000762,
-      "longitud": -75.7623508,
-      "zoom": 17
-    },
-    {
       "nombre": "CIMACI",
       "descripcion": "Conservación del caimán aguja -Crocodylus acutus-",
       "informacion":"INFORMACION GENERAL: Aquí se realiza el proyecto de conservación y manejo del caimán aguja, dirigido por los miembros de ASOCAIMÁN. Además se pueden observar otros animales como la tortuga albina. Las personas que dictan las charlas y realizan el recorrido son voluntarios así que lo ideal es darles una propina.",
