@@ -5,6 +5,9 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.viewModels
+import androidx.lifecycle.ViewModelProvider
+import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import com.jarvis.poi.databinding.FragmentDetailBinding
 import com.jarvis.poi.main.MainActivity
@@ -14,6 +17,7 @@ import com.squareup.picasso.Picasso
 class DetailFragment : Fragment() {
 
     private lateinit var detailBinding: FragmentDetailBinding
+    private val detailViewModel: DetailViewModel by viewModels()
     private val args: DetailFragmentArgs by navArgs()
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -41,6 +45,10 @@ class DetailFragment : Fragment() {
             temperatureTextView.text = placeofinterest.temperatura
             placesTextView.text = placeofinterest.sitios
             Picasso.get().load(placeofinterest.urlPicture2).into(pictureImageView)
+
+            mapButton.setOnClickListener(){
+                findNavController().navigate(DetailFragmentDirections.actionDetailFragmentToMapsFragment(poi = placeofinterest))
+            }
         }
     }
 }
