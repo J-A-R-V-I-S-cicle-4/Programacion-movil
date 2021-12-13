@@ -1,4 +1,6 @@
 package com.jarvis.poi.detail
 
-class DetailViewModel {
+import androidx.lifecycle.ViewModel
+
+class DetailViewModel : ViewModel() {
 }
