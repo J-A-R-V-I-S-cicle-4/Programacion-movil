@@ -11,8 +11,8 @@
       "calificacion": 4.8,
       "urlPicture": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1639533195/guatavita_round_200_waq8kh.png",
       "urlPicture2": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1639533531/laguna-de-guatavita-mayo_800_vkis6b.jpg",
-      "latitud": 4.9774782,
-      "longitud": -73.7790181,
+      "latitud": 4.9774729,
+      "longitud": -73.7768294,
       "zoom": 17
     },
     {
@@ -25,9 +25,9 @@
       "calificacion": 4.9,
       "urlPicture": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1639533198/villadeleyva_round_200_cwrevo.png",
       "urlPicture2": "https://res.cloudinary.com/dvvlexkkn/image/upload/v1639533690/Plaza-Mayor-Villa-de-Leyva_800_taytt5.jpg",
-      "latitud": 5.6366117,
-      "longitud": -73.5275387,
-      "zoom": 17
+      "latitud": 5.6351075,
+      "longitud": -73.5327473,
+      "zoom": 16
     },{
       "nombre": "Barranquilla",
       "descripcion":"La Arenosa",
