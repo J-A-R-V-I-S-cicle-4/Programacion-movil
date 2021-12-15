@@ -99,7 +99,7 @@
       "temperatura":"TEMPERATURA PROMEDIO: 27°C.",
       "latitud": 3.8403626,
       "longitud": -76.9155496,
-      "zoom": 14
+      "zoom": 15
     },
     {
       "nombre": "Pico Del Loro",
@@ -110,8 +110,8 @@
       "urlPicture2": "https://res.cloudinary.com/dai1kxhb3/image/upload/v1637893579/picodelloro_rksn9i.jpg",
       "ubicacion": "UBICACION: Ubicada sobre la vertiente oriental de los Farallones de Cali.",
       "temperatura": "TEMPERATURA PROMEDIO: 25°C.",
-      "latitud": 3.3018046,
-      "longitud": -76.6514678,
+      "latitud": 3.841990,
+      "longitud": -76.898383,
       "zoom": 17
     },
     {
