@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.ColombiaPlacesToBe" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#1C30B1</item>
-        <item name="colorPrimaryVariant">#B30000</item>
+        <item name="colorPrimary">#5EA8A7</item>
+        <item name="colorPrimaryVariant">#257985</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
